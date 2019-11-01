@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.container{
+	width: 1140px;
+	float:left;
+}
+
+.Part-one{
+
+}
+
+.Part-one h2{
+margin: 39px;
+}
+
+.Part-one p{
+	margin: 40px;
+
+}
+
+.Part-one ul{
+
+}
+
+.Part-one ul li{
+
+}
+
+.Part-one ul li i{
+
+}
